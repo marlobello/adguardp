@@ -1,8 +1,10 @@
 # AdGuard Anti-Porn DNS Service
 
-I have created this repository so that friends and family can use this information to help precent access to adult content on the internet. No solution is perfect, but perhaps this will be of some help.
+I have created this repository so that friends and family can use this information to help prevent access to adult content on the internet. No solution is perfect, but perhaps this will be of some help protect children as well as adults from unwelcome content.
 
 This is primarily targeted at mobile devices that are either Android or iOS. It will prevent access to many adult websites while the phone is on wifi ***as well as cellular*** networks.
+
+This service is provided "as-is" with no gurantees or warranties of any kind.
 
 ## Setup
 
