@@ -1,6 +1,8 @@
 # AdGuard Anti-Porn DNS Service
 
-I have created this repository so that friends and family can use this information to help precent access to pornographic websites. This is primarily targeted at mobile devices that are either Android or iOS.
+I have created this repository so that friends and family can use this information to help precent access to adult content on the internet. No solution is perfect, but perhaps this will be of some help.
+
+This is primarily targeted at mobile devices that are either Android or iOS. It will prevent access to many adult websites while the phone is on wifi ***as well as cellular*** networks.
 
 ## Setup
 
