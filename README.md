@@ -2,7 +2,7 @@
 
 I have created this repository so that friends and family can use this information to help prevent access to adult content on the internet. No solution is perfect, but perhaps this will be of some help to protect children as well as adults from unwelcome content.
 
-This is primarily targeted at mobile devices that are either Android or iOS. It will prevent access to many adult websites while the phone is on wifi ***as well as cellular*** networks.
+This is primarily targeted at mobile devices that are either Android or iOS. It will supercede **all** DNS requests prevent access to many adult websites while the phone is on wifi ***as well as cellular*** networks.
 
 Logging is diabled in the system as much as possible. Metrics are collected. This service is provided "as-is" with no gurantees or warranties of any kind. If you experience issues, you can undo the settings. 
 
