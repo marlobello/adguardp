@@ -13,7 +13,7 @@ There are two options to choose from:
 - Block adult content only
 - Block adult content and advertisements
 
-> Please note that blocking advertisements may have an adverse effect on your browsing experience. Some websites will refuse you entry because you are using an ad blocker. Other sites may fail to work properly when an ad blocker is enbaled.
+> Please note that blocking advertisements may have an adverse effect on your browsing experience. Some websites will refuse you entry because you are using an ad blocker. Other sites may fail to work properly when an ad blocker is enabled.
 
 ### Andoid setup
 
