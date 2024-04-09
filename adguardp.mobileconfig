@@ -10,7 +10,7 @@
                     <key>ServerAddresses</key>
                     <array/>
                     <key>ServerName</key>
-                    <string>adguardp.cloud.hellzbellz.com</string>
+                    <string>adguardp.cloud.hellzbellz.net</string>
                 </dict>
                 <key>OnDemandRules</key>
                 <array>
@@ -32,7 +32,7 @@
                     </dict>
                 </array>
                 <key>PayloadDescription</key>
-                <string>Configures device to use adguardp.cloud.hellzbellz.com Encrypted DNS over TLS</string>
+                <string>Configures device to use adguardp.cloud.hellzbellz.net Encrypted DNS over TLS</string>
                 <key>PayloadDisplayName</key>
                 <string>adguardp.cloud.hellzbellz.com DNS over TLS</string>
                 <key>PayloadIdentifier</key>
