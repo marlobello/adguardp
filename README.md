@@ -4,7 +4,7 @@ I have created this repository so that friends and family can use this informati
 
 This is primarily targeted at mobile devices that are either Android or iOS. It will prevent access to many adult websites while the phone is on wifi ***as well as cellular*** networks.
 
-This service is provided "as-is" with no gurantees or warranties of any kind. If you experience issues, you can undo the settings. 
+Logging is diabled in the system as much as possible. Metrics are collected. This service is provided "as-is" with no gurantees or warranties of any kind. If you experience issues, you can undo the settings. 
 
 ## Setup
 
