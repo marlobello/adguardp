@@ -4,7 +4,7 @@ I have created this repository and corresponding service so that friends and fam
 
 This is primarily targeted at mobile devices that are either Android or iOS. It will supercede **all** DNS requests to prevent access to many adult websites while the phone/tablet is on wifi ***as well as cellular*** networks. These settings *may* not work if the device has other VPN options enabled.
 
-Logging is diabled in the system as much as possible. Metrics are collected. This service is provided "as-is" with no gurantees or warranties of any kind. If you experience issues, you can easily undo the settings. 
+Logging is diabled for DNS queries, but metrics are collected. I cannot associate DNS queries with users. This service is provided "as-is" with no gurantees or warranties of any kind. If you experience issues, you can easily undo the settings. 
 
 ## Setup
 
