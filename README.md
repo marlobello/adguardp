@@ -8,16 +8,27 @@ Logging is diabled for DNS queries, but metrics are collected. I cannot associat
 
 ## Setup
 
+There are two options to choose from:
+
+- Block adult content only
+- Block adult content and advertisements
+
+> Please note that blocking advertisements may have an adverse effect on your browsing experience. Some websites will refuse you entry because you are using an ad blocker. Other sites may fail to work properly when an ad blocker is enbaled.
+
 ### Andoid setup
 
 1. Navigate to **Settings** -> **Network & internet** -> **Private DNS**
-2. Select **Private DNS provider hostname** and enter "adguardp.cloud.hellzbellz.net"
+2. Select **Private DNS provider hostname** and enter one of the following:
+    - For blocking adult content only: "adguardp.cloud.hellzbellz.net"
+    - For blocking adult content and ads: "adguard.cloud.hellzbellz.net"
 3. Click **Save**
 
 
 ### iOS setup
 
-1. Visit this [link](https://raw.githubusercontent.com/marlobello/adguardp/main/adguardp.mobileconfig) from your iOS device **using Safari** to download the config file.
+1. Using Safari on your iOS device, visit one of the following links to download the config file:
+    - For blocking adult content only: [link](https://raw.githubusercontent.com/marlobello/adguardp/main/adguardp.mobileconfig)
+    - For blocking adult content and ads: [link](https://raw.githubusercontent.com/marlobello/adguardp/main/adguard.mobileconfig)
 2. Safari should ask you if you want to download a configuration profile, click **Allow**
 3. Upon successful download, click **Close**
 3. Open the **Settings** app
