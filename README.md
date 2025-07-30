@@ -10,8 +10,10 @@ Logging is diabled for DNS queries, but anonymized metrics are collected. I cann
 
 There are two options to choose from:
 
-- Block adult content only
+- ~~Block adult content only~~
 - Block adult content and advertisements
+
+> Due to lack of use, I have shutdown the adult content only service.
 
 > Please note that blocking advertisements may have an adverse effect on your browsing experience. Some websites will refuse you entry because you are using an ad blocker. Other sites may fail to work properly when an ad blocker is enabled.
 
@@ -19,7 +21,7 @@ There are two options to choose from:
 
 1. Navigate to **Settings** -> **Network & internet** -> **Private DNS**
 2. Select **Private DNS provider hostname** and enter one of the following:
-    - For blocking adult content only: "adguardp.cloud.hellzbellz.net"
+    - ~~For blocking adult content only: "adguardp.cloud.hellzbellz.net"~~
     - For blocking adult content and ads: "adguard.cloud.hellzbellz.net"
 3. Click **Save**
 
@@ -27,7 +29,7 @@ There are two options to choose from:
 ### iOS setup
 
 1. Using Safari on your iOS device, visit one of the following links to download the config file:
-    - For blocking adult content only: [link](https://raw.githubusercontent.com/marlobello/adguardp/main/adguardp.mobileconfig)
+    - ~~For blocking adult content only: [link](https://raw.githubusercontent.com/marlobello/adguardp/main/adguardp.mobileconfig)~~
     - For blocking adult content and ads: [link](https://raw.githubusercontent.com/marlobello/adguardp/main/adguard.mobileconfig)
 2. Safari should ask you if you want to download a configuration profile, click **Allow**
 3. Upon successful download, click **Close**
